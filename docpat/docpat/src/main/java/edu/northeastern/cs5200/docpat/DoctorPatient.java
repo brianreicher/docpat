@@ -1,4 +1,4 @@
-package docpat.docpat.src.main.java.edu.northeastern.cs5200.docpat;
+package edu.northeastern.cs5200.docpat;
 
 /**
  * This program exercises the DPDatabaseAPI (MySQL implementation).

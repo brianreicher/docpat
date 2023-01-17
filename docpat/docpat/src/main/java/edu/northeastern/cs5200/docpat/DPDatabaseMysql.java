@@ -1,10 +1,10 @@
-package docpat.docpat.src.main.java.edu.northeastern.cs5200.docpat;
+package edu.northeastern.cs5200.docpat;
 
 import java.sql.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-import docpat.docpat.src.main.java.edu.northeastern.database.DBUtils;
+import edu.northeastern.database.DBUtils;
 
 
 public class DPDatabaseMysql implements DPDatabaseAPI {

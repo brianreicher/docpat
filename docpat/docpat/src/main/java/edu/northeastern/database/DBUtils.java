@@ -1,4 +1,4 @@
-package docpat.docpat.src.main.java.edu.northeastern.database;
+package edu.northeastern.database;
 
 import java.sql.*;
 
